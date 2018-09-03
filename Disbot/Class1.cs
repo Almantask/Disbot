@@ -8,5 +8,6 @@ namespace Disbot
 {
     public class Class1
     {
+        // Test
     }
 }
